@@ -1,0 +1,9 @@
+ipywidgets
+ipympl
+numpy
+scipy
+matplotlib
+femwell
+ipykernel
+voila
+
