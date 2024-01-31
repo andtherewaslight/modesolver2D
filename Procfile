@@ -1,1 +1,1 @@
-web: voila --Voila.tornado_settings='{"headers":{"Content-Security-Policy":"frame-ancestors self *" }}' --port=$PORT --Voila.ip=0.0.0.0 --no-browser --strip_sources=True --enable_nbextensions=True modesolver2D.ipynb
+web: voila --Voila.tornado_settings='{"headers":{"Content-Security-Policy":"frame-ancestors self *" }}' --port=$PORT --Voila.ip=0.0.0.0 --no-browser --strip_sources=True --enable_nbextensions=True --show_tracebacks=True modesolver2D.ipynb
